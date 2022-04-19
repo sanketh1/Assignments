@@ -5,7 +5,7 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: #000000;
+	background-color: rgba(0,0,0,0.8);
 }
 
 .navbar-brand{
@@ -87,5 +87,3 @@ li{
 	font-size: 20px;
 	font-weight: bold;
 }
-
-
